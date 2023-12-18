@@ -1,0 +1,11 @@
+div{
+    height: 40px;
+    width:40px;
+    display: inline-block;
+    margin:5px;
+    padding-top: 15px;
+    text-align: center;
+    background-color: tomato;
+    color:white;
+    font-style: italic, sans-serif;
+}
