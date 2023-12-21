@@ -1,6 +1,6 @@
 export default class Slide{
-    constructor(image,text){
-        this.image=image;
+    constructor(img,text){
+        this.img=img;
         this.text=text;
     }
 }
